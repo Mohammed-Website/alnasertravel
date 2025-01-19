@@ -57,12 +57,12 @@ window.addEventListener('scroll', () => {
 document.addEventListener("DOMContentLoaded", function () {
     const words = [
         "رحلات سياحية",
+        "سوتشي",
+        "طرابزون",
         "تايلاند",
         "اذربيجان",
-        "لندن",
-        "موسكو",
+        "سريلانكا",
         "اسطنبول",
-        "دبي",
         "عروض سياحية",
     ];
 
